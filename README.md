@@ -37,4 +37,4 @@ Issues and PRs welcome.
 
 ## Citing
 GitHub's **"Cite this repository"** (see [`CITATION.cff`](CITATION.cff)), or:
-> Amworkplace Ltd (BoundaryAI). *Agent Runtime Assurance (ARA) Control Family.* 2026. https://github.com/skvcool-rgb/Agent-runtime-assurance
+> Amworkplace Ltd (BoundaryAI). *Agent Runtime Assurance (ARA) Control Family.* 2026. https://github.com/Amworkplace-Ltd/Agent-runtime-assurance

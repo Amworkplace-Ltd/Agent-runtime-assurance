@@ -6,8 +6,8 @@ authors:
 version: "0.1"
 date-released: "2026-07-01"
 license: CC-BY-4.0
-url: "https://github.com/skvcool-rgb/Agent-runtime-assurance"
-repository-code: "https://github.com/skvcool-rgb/Agent-runtime-assurance"
+url: "https://github.com/Amworkplace-Ltd/Agent-runtime-assurance"
+repository-code: "https://github.com/Amworkplace-Ltd/Agent-runtime-assurance"
 abstract: >-
   A vendor-neutral control family (ARA-1 through ARA-8) for deterministic,
   tamper-evident, independently-verifiable runtime assurance of AI agents. The
