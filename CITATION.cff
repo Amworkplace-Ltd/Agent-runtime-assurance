@@ -3,11 +3,11 @@ title: "Agent Runtime Assurance (ARA) Control Family"
 message: "If you reference this work, please cite it as below."
 authors:
   - name: "Amworkplace Ltd (BoundaryAI)"
-version: "0.1-draft"
-date-released: "2026-06-28"
+version: "0.1"
+date-released: "2026-07-01"
 license: CC-BY-4.0
-url: "https://github.com/skvcool-rgb/agent-runtime-assurance"
-repository-code: "https://github.com/skvcool-rgb/agent-runtime-assurance"
+url: "https://github.com/skvcool-rgb/Agent-runtime-assurance"
+repository-code: "https://github.com/skvcool-rgb/Agent-runtime-assurance"
 abstract: >-
   A vendor-neutral control family (ARA-1 through ARA-8) for deterministic,
   tamper-evident, independently-verifiable runtime assurance of AI agents. The
