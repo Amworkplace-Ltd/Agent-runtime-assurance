@@ -1,4 +1,5 @@
 # Agent Runtime Assurance (ARA)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21571732.svg)](https://doi.org/10.5281/zenodo.21571732)
 
 **A vendor-neutral control family for deterministic, tamper-evident, independently-verifiable runtime assurance of AI agents** — the software-agent port of aviation Run-Time Assurance (RTA / ASTM F3269).
 
